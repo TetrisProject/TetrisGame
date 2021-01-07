@@ -1,4 +1,3 @@
-package TetrisGame;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 
@@ -30,4 +29,3 @@ public class ImageLoader {
         return null;
     }
 }
-
